@@ -42,7 +42,7 @@ class Stack {
         let str = "";
         for (let i = 0; i < this.items.length; i++)
             str += this.items[i] + " ";
-        return str;
+        return str.trim();
     }
 }
 
