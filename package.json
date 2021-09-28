@@ -1,0 +1,33 @@
+{
+  "name": "dsalgo",
+  "version": "0.0.1",
+  "description": "JavaScript Library implementing all the popular DataStructure and common algorithms",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "NODE_OPTIONS=--experimental-vm-modules npx jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piyushpriyadarshi/dsalgo.git"
+  },
+  "keywords": [
+    "ds",
+    "algo",
+    "DataStructure",
+    "Algorithms"
+  ],
+  "author": "Piyush Priyadarshi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/piyushpriyadarshi/dsalgo/issues"
+  },
+  "homepage": "https://github.com/piyushpriyadarshi/dsalgo#readme",
+  "dependencies": {
+    "jest": "^27.2.2"
+  },
+  "jest": {
+    "verbose": true,
+    "transform": {}
+  }
+}
