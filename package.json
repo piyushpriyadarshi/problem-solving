@@ -1,5 +1,5 @@
 {
-  "name": "dsalgo",
+  "name": "@priyadarship4/dsalgo",
   "version": "0.0.1",
   "description": "JavaScript Library implementing all the popular DataStructure and common algorithms",
   "main": "index.js",

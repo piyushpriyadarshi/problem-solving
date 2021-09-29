@@ -1,4 +1,7 @@
+
+
 class Queue {
-    constructor() {
+    constructor(capacity) {
+        this.capacity=capacity || Infinity;
     }
 }
