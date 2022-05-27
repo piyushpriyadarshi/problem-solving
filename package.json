@@ -24,7 +24,8 @@
   },
   "homepage": "https://github.com/piyushpriyadarshi/dsalgo#readme",
   "dependencies": {
-    "jest": "^27.2.2"
+    "jest": "^27.2.2",
+    "jsdoc": "^3.6.7"
   },
   "jest": {
     "verbose": true,

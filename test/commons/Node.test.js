@@ -11,7 +11,6 @@ describe('Test Node ',()=>{
 
     test('tests creation of Node Object',()=>{
         node.data=10;
-        console.log(node._data);
         expect(node).toBeDefined();
     })
 })

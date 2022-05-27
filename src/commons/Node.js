@@ -1,7 +1,6 @@
 class Node {
-    #data;
     constructor(data) {
-        this.#data=data;
+        this._data=data;
         this._next=null;
     }
 
